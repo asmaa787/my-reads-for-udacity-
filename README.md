@@ -4,7 +4,7 @@
 
 This App allows you to select and categorize books you have read, are currently reading, or want to read. 
 
-##Prerequisites
+## Prerequisites
 
 In order to start this App, follow these steps
 1. `npm init`
